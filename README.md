@@ -9,4 +9,5 @@ Keg Scale
   3. HX711          https://aliexpress.ru/item/1005002176327047.html
 
 
-# Модели
+# Схема подключения
+scheme/main.jpg
