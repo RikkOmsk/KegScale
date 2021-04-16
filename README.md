@@ -10,4 +10,15 @@ Keg Scale
 
 
 # Схема подключения
-scheme/main.jpg
+/scheme/main.jpg
+
+
+# Прошивка под Arduino
+/ESP8266/ESP8266_keg_v02.ino
+Необходимо заменить все что под ***
+ - auth key blynk
+ - ssid wifi
+ - pass wifi
+
+# 3D модель для печати
+/3dModel/*
