@@ -49,3 +49,16 @@ int keg1_offset_factor = -64200;        // 0 вес для площадки (с�
 
 # Настойка blynk
 (будет позже)
+
+
+
+
+## Бонус
+Мойка для кег
+
+washKeg_v0.2_top1.stl 2шт
+washKeg_v0.2_top2.stl 2шт
+washKeg_v0.2_line1.stl 1шт
+washKeg_v0.2_line2.stl 2шт
+washKeg_v0.2_dash.stl 1шт
+washKeg_v0.2_stat.stl 4шт 
